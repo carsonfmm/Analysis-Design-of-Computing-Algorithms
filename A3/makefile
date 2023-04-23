@@ -1,6 +1,5 @@
 # Name: Carson Mifsud
 # Date: 2021-03-13
-# Student ID: 1089936
 # Assignment: 2
 
 all:
