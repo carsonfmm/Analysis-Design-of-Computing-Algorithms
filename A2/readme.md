@@ -1,6 +1,5 @@
 Name: Carson Mifsud
 Date: 2021-02-20
-Student ID: 1089936
 Assignment: 2
 
 To run the programs P11.c, P12.c, P21.c, P22.c and main.c:
