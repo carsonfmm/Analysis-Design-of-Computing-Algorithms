@@ -1,6 +1,5 @@
 // Name: Carson Mifsud
 // Date: 2021-03-29
-// Student ID: 1089936
 // Assignment: 4
 // Description: This program implements two searching methods to search through optimal binary search trees (BSTs) for the words given in the data_7.txt file.
 
